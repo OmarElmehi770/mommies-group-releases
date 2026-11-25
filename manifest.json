@@ -1,0 +1,35 @@
+{
+    "name": "Mommies Group (جروب الماميز)",
+    "short_name": "Mommies Group",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FAF9F6",
+    "theme_color": "#2E8B8B",
+    "description": "Mommies Group (جروب الماميز) — Your smart companion for early childhood development. Download the official Android APK to track milestones, chat with Bloom AI, book specialists, and manage treatment plans.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
